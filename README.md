@@ -13,6 +13,9 @@ The following two demo files are accessible upon the request at [matliji@163.com
 Lai_nonuniform_cvpr_MCEM_pLD.py
 Gopro_nonuniform_cvpr_MCEM_pLD.py
 ```
+## Reconstruction of Lai nonuniform dataset
+
+You can access the forward_operator demo file and the reconstruction of the Lai nonuniform dataset at [Google driver](https://drive.google.com/drive/folders/1iIxe6OObfSiGhwDMfCTpCYoZJGBkmOos?usp=sharing). The quantitative metric is also provided, where the rotation is taken into consideration.
 
 ## Run the demo
 
