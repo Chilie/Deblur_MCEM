@@ -28,3 +28,19 @@ You can access the forward_operator demo file and the reconstruction of the Lai 
     ```bash
     python3 Gopro_nonuniform_cvpr_MCEM_pLD.py
     ```
+
+
+
+## Citation
+
+If you find our work useful in your research or publication, please cite it:
+
+```
+@inproceedings{li2023self,
+  title={Self-Supervised Blind Motion Deblurring With Deep Expectation Maximization},
+  author={Li, Ji and Wang, Weixi and Nan, Yuesong and Ji, Hui},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={13986--13996},
+  year={2023}
+}
+```
